@@ -145,7 +145,7 @@ Também tenho experiência prática com deploy de aplicações, ambientes de ser
 
 ### Portfolio Website
 🌐 **Responsive personal portfolio** showcasing projects and technical skills  
-🔗 [Live Demo](https://arthurreira.github.io) | 💻 [GitHub](https://github.com/arthurreira)
+🔗 [Live Demo](https://arthurreira.dev) | 💻 [GitHub](https://github.com/arthurreira)
 
 **Technologies:** HTML, CSS, JavaScript
 
