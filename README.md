@@ -178,12 +178,11 @@ Junior full stack developer with strong frontend delivery and growing backend/cl
 
 ## GitHub Statistics
 
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurreira&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=default)](https://github.com/arthurreira)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=<exact-handle>&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=default)](https://github.com/<exact-handle>)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurreira&layout=compact&langs_count=8&cache_seconds=1800&theme=default)](https://github.com/arthurreira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<exact-handle>&layout=compact&langs_count=8&cache_seconds=1800&theme=default)](https://github.com/<exact-handle>)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arthurreira&theme=default)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=<exact-handle>&theme=default)](https://github.com/<exact-handle>)
 ---
 
 ## Featured Projects
