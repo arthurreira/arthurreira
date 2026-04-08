@@ -1,6 +1,6 @@
 # Arthur Ferreira
 
-**Junior Software Developer | Full Stack Enthusiast | Based in Finland**
+**Junior Software Developer | Junior Software Engineer | Based in Finland**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-ferreira-66815524a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://arthurreira.dev)
