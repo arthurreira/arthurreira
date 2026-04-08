@@ -18,7 +18,13 @@
 
 ## Languages
 
-**English** | [Suomi](#about-me-suomi) | [Português](#about-me-português)
+**English** | [Suomi](#about-me-fi) | [Português](#about-me-pt)
+
+---
+
+## Value Proposition
+
+Junior full stack developer with strong frontend delivery and growing backend/cloud depth. I build practical web applications, APIs, and Docker-based environments, and I am actively advancing in Azure and AWS certifications.
 
 ---
 
@@ -27,6 +33,14 @@
 - Full stack and backend focused developer with hands-on project delivery.
 - Experience with React, Next.js, Node.js, Express, ASP.NET Core, SQL, and Hono.
 - Active cloud and AI learning path across Microsoft and AWS.
+
+---
+
+## Currently Building
+
+- Backend APIs with Node.js, Hono, and SQL integrations
+- Cloud fundamentals projects aligned with AZ-900 and AWS Cloud Practitioner paths
+- AI fundamentals learning path aligned with AI-900 and AWS AI tracks
 
 ---
 
@@ -48,7 +62,7 @@
 
 ---
 
-### <a name="about-me-suomi"></a>Suomi
+### <a name="about-me-fi"></a>Suomi
 
 <img src="https://img.shields.io/badge/Suomi-Profiili-1f883d?style=flat-square" alt="Suomi profiili" />
 
@@ -64,7 +78,7 @@
 
 ---
 
-### <a name="about-me-português"></a>Português
+### <a name="about-me-pt"></a>Português
 
 <img src="https://img.shields.io/badge/Portugu%C3%AAs-Perfil-ef6c00?style=flat-square" alt="Português perfil" />
 
@@ -164,25 +178,69 @@
 
 ## GitHub Statistics
 
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurreira&show_icons=true&theme=default)](https://github.com/arthurreira)
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurreira&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=default)](https://github.com/arthurreira)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurreira&layout=compact&theme=default)](https://github.com/arthurreira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurreira&layout=compact&langs_count=8&cache_seconds=1800&theme=default)](https://github.com/arthurreira)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arthurreira&theme=default)](https://git.io/streak-stats)
 
 ---
 
 ## Featured Projects
 
+### Northwind Business Metrics API
+ASP.NET Core API for customer analytics and KPI endpoints using SQL Server and Dapper.
+
+[Repository](https://github.com/arthurreira/nordcloud-academy-northwind-business-metrics-api)
+
+**Technologies:** C#, ASP.NET Core, SQL Server, Dapper, REST API
+
+### React Dashboard UI Sandbox
+Modern React and TypeScript dashboard architecture with reusable components.
+
+[Repository](https://github.com/arthurreira/nordcloud-academy-react-dashboard-ui-sandbox)
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS
+
+### C# File Analytics Console App
+Console app for file processing, numeric aggregation, and JSON export.
+
+[Repository](https://github.com/arthurreira/nordcloud-academy-csharp-file-analytics-console-app)
+
+**Technologies:** C#, .NET, File I/O, JSON
+
+### Frontend Learning Path
+Structured learning repository across HTML, JavaScript, TypeScript, React, and Next.js.
+
+[Repository](https://github.com/arthurreira/nordcloud-academy-frontend-learning-path)
+
+**Technologies:** HTML, JavaScript, TypeScript, React, Next.js
+
 ### Portfolio Website
-**Responsive personal portfolio** showcasing projects and technical skills  
-[Live Demo](https://arthurreira.dev) | [GitHub](https://github.com/arthurreira)
+Responsive personal portfolio showcasing projects and technical skills.
+
+[Live Demo](https://arthurreira.dev)
 
 **Technologies:** HTML, CSS, JavaScript
 
-### Unity VR Projects
-**Experimental VR and 3D projects** developed using Unity  
-[GitHub](https://github.com/arthurreira)
+---
 
-**Technologies:** Unity, C#, Blender, VR Development
+## Collaboration and Open Source
+
+- Open to collaboration on full stack, backend API, and cloud learning projects
+- Interested in contributing to practical open-source projects and developer tooling
+
+---
+
+## Architecture Snapshot
+
+```mermaid
+flowchart LR
+	UI[React Frontend] --> API[ASP.NET Core API]
+	API --> DB[(SQL Server)]
+	Auth[Cloud Auth Provider] --> UI
+	Auth --> API
+```
 
 ---
 
