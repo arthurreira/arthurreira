@@ -178,49 +178,30 @@ Junior full stack developer with strong frontend delivery and growing backend/cl
 
 ## GitHub Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=<exact-handle>&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=default)](https://github.com/<exact-handle>)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurreira&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=default)](https://github.com/arthurreira)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<exact-handle>&layout=compact&langs_count=8&cache_seconds=1800&theme=default)](https://github.com/<exact-handle>)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurreira&layout=compact&langs_count=8&cache_seconds=1800&theme=default)](https://github.com/arthurreira)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=<exact-handle>&theme=default)](https://github.com/<exact-handle>)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arthurreira&theme=default)](https://github.com/arthurreira)
+
 ---
 
 ## Featured Projects
 
-### Northwind Business Metrics API
-ASP.NET Core API for customer analytics and KPI endpoints using SQL Server and Dapper.
+### Nutrineuvo
 
-[Repository](https://github.com/arthurreira/nordcloud-academy-northwind-business-metrics-api)
+Nutrineuvo is a Finnish digital marketplace that connects people with special dietary needs to qualified nutrition professionals.
 
-**Technologies:** C#, ASP.NET Core, SQL Server, Dapper, REST API
+[Live Demo](https://nutrineuvo.fi)
 
-### React Dashboard UI Sandbox
-Modern React and TypeScript dashboard architecture with reusable components.
-
-[Repository](https://github.com/arthurreira/nordcloud-academy-react-dashboard-ui-sandbox)
-
-**Technologies:** React, TypeScript, Vite, Tailwind CSS
-
-### C# File Analytics Console App
-Console app for file processing, numeric aggregation, and JSON export.
-
-[Repository](https://github.com/arthurreira/nordcloud-academy-csharp-file-analytics-console-app)
-
-**Technologies:** C#, .NET, File I/O, JSON
-
-### Frontend Learning Path
-Structured learning repository across HTML, JavaScript, TypeScript, React, and Next.js.
-
-[Repository](https://github.com/arthurreira/nordcloud-academy-frontend-learning-path)
-
-**Technologies:** HTML, JavaScript, TypeScript, React, Next.js
+**Focus:** Marketplace experience, accessibility, and trust-centered service discovery.
 
 ### Portfolio Website
-Responsive personal portfolio showcasing projects and technical skills.
+Responsive personal portfolio that presents my projects, technical skills, and ongoing learning journey.
 
 [Live Demo](https://arthurreira.dev)
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** Next.js, React, Tailwind CSS v4, Framer Motion, Contentlayer, AWS (Amazon Bedrock for AI features), serverless functions on Vercel
 
 ---
 
@@ -231,17 +212,6 @@ Responsive personal portfolio showcasing projects and technical skills.
 
 ---
 
-## Architecture Snapshot
-
-```mermaid
-flowchart LR
-	UI[React Frontend] --> API[ASP.NET Core API]
-	API --> DB[(SQL Server)]
-	Auth[Cloud Auth Provider] --> UI
-	Auth --> API
-```
-
----
 
 ## Contact
 
