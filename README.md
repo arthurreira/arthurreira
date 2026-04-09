@@ -22,13 +22,10 @@
 
 ---
 
-## Value Proposition
 
 Junior full stack developer with strong frontend delivery and growing backend/cloud depth. I build practical web applications, APIs, and Docker-based environments, and I am actively advancing in Azure and AWS certifications.
 
 ---
-
-## Quick Highlights
 
 - Full stack and backend focused developer with hands-on project delivery.
 - Experience with React, Next.js, Node.js, Express, ASP.NET Core, SQL, and Hono.
