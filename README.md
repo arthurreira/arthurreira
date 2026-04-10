@@ -13,12 +13,12 @@
 	<img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Backend-0a66c2?style=flat-square" alt="Focus full stack and backend" />
 	<img src="https://img.shields.io/badge/Cloud-Azure_%26_AWS-6f42c1?style=flat-square" alt="Cloud Azure and AWS" />
 </p>
+<p align="center">Simple guy, coding out of passion — development is my hobby!</p>
+<p align="center">I just love well‑architected solutions!</p>
 
 ---
 
 
-## Simple guy, coding out of passion — development is my hobby!
-## I just love well‑architected solutions!
 
 
 ## Languages
