@@ -16,6 +16,11 @@
 
 ---
 
+
+## Simple guy, coding out of passion — development is my hobby!
+## I just love well‑architected solutions!
+
+
 ## Languages
 
 **English** | [Suomi](#about-me-fi) | [Português](#about-me-pt)
