@@ -1,20 +1,20 @@
-<h1 align="center">Arthur Ferreira</h1>
+<h1 >Arthur Ferreira</h1>
 
-<p align="center"><strong>Junior Software Developer | Junior Software Engineer | Based in Finland</strong></p>
+<p ><strong>Junior Software Developer | Junior Software Engineer | Based in Finland</strong></p>
 
-<p align="center">
+<p >
 	<a href="https://www.linkedin.com/in/arthur-ferreira-66815524a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 	<a href="https://arthurreira.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 	<a href="mailto:arthur.ferreiramiran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
+<p >
 	<img src="https://img.shields.io/badge/Open_to-Junior_Roles-1f883d?style=flat-square" alt="Open to junior roles" />
 	<img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Backend-0a66c2?style=flat-square" alt="Focus full stack and backend" />
 	<img src="https://img.shields.io/badge/Cloud-Azure_%26_AWS-6f42c1?style=flat-square" alt="Cloud Azure and AWS" />
 </p>
-<p align="center">Simple guy, coding out of passion — development is my hobby!</p>
-<p align="center">I just love well‑architected solutions!</p>
+<p >Simple guy, coding out of passion — development is my hobby!</p>
+<p >I just love well‑architected solutions!</p>
 
 ---
 
