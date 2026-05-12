@@ -100,8 +100,8 @@ Junior full stack developer with strong frontend delivery and growing backend/cl
 
 - Microsoft Azure Fundamentals (AZ-900): Done!
 - Microsoft Azure AI Fundamentals (AI-900): in progress 
-- AWS Certified Cloud Practitioner: in progress
-- AWS AI learning path: in progress
+- AWS Certified Cloud Practitioner: Done!
+- AWS AI Practitioner: in progress
 - Continuous focus: backend architecture, cloud services, and applied AI in software products
 
 ---
