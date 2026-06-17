@@ -1,6 +1,9 @@
-<h1 >Arthur Ferreira</h1>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=009739&height=220&section=header&text=Hey%20there!%20I'm%20Arthur%20Ferreira&fontSize=40&fontColor=FEDD00&animation=fadeIn" alt="Header" />
 
-<p ><strong>Junior Software Developer | Junior Software Engineer | Based in Finland</strong></p>
+<!-- Typing Animation -->
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Junior+Software+Developer;Junior+Software+Engineer;Based+in+Finland;Building+AI-Powered+Analytics+Platforms;Claude+API+%7C+RAG+%7C+Agentic+Workflows" alt="Typing SVG" />
 
 <p >
 	<a href="https://www.linkedin.com/in/arthur-ferreira-66815524a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,8 +20,6 @@
 <p >I just love well‑architected solutions!</p>
 
 ---
-
-
 
 
 ## Languages
@@ -230,6 +231,14 @@ Responsive personal portfolio that presents my projects, technical skills, and o
 **Technologies:** Next.js, React, Tailwind CSS v4, Framer Motion, Contentlayer, AWS (Amazon Bedrock for AI features), serverless functions on Vercel
 
 ---
+## GitHub Statistics
+ 
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=arthurreira&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arthurreira&theme=dracula&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurreira&theme=dracula&hide_border=true&layout=compact&langs_count=10)
+ 
+</div>
 
 ## Collaboration and Open Source
 
