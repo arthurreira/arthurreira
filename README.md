@@ -178,25 +178,7 @@ Junior full stack developer with strong frontend delivery and growing backend/cl
 
 ---
 
-## GitHub Statistics
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurreira&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=default)](https://github.com/arthurreira)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurreira&layout=compact&langs_count=8&cache_seconds=1800&theme=default)](https://github.com/arthurreira)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=arthurreira&theme=default)](https://github.com/arthurreira)
-
----
-
 ## Featured Projects
-
-### Nutrineuvo
-
-Nutrineuvo is a Finnish digital marketplace that connects people with special dietary needs to qualified nutrition professionals.
-
-[Live Demo](https://nutrineuvo.fi)
-
-**Focus:** Marketplace experience, accessibility, and trust-centered service discovery.
 
 ### Portfolio Website
 Responsive personal portfolio that presents my projects, technical skills, and ongoing learning journey.
