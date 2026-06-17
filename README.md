@@ -132,6 +132,16 @@ Junior full stack developer with strong frontend delivery and growing backend/cl
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare Workers AI](https://img.shields.io/badge/Cloudflare%20Workers%20AI-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-D71F00?style=flat-square&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Row-Level Security](https://img.shields.io/badge/Row--Level_Security-316192?style=flat-square&logo=postgresql&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logoColor=white)
+![Stripe API](https://img.shields.io/badge/Stripe_API-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 ### Cloud, DevOps, and Deployment
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -150,6 +160,14 @@ Junior full stack developer with strong frontend delivery and growing backend/cl
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Velite](https://img.shields.io/badge/Velite-000000?style=flat-square&logo=vite&logoColor=white)
+![View Transitions API](https://img.shields.io/badge/View%20Transitions%20API-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Custom React Hooks](https://img.shields.io/badge/Custom%20React%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logoColor=white)
+![Atomic Design](https://img.shields.io/badge/Atomic_Design-FF6B6B?style=flat-square&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logoColor=white)
 
 ### Additional Technologies
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -165,9 +183,33 @@ Junior full stack developer with strong frontend delivery and growing backend/cl
 ![AWS_Console](https://img.shields.io/badge/AWS_Console-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![ML Evaluation Metrics](https://img.shields.io/badge/ML%20Evaluation%20Metrics-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0EA5E9?style=flat-square&logo=apacheairflow&logoColor=white)
 
----
+### AI / LLM Engineering
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-FF6F61?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square&logoColor=white)
+![Tool Use / Function Calling](https://img.shields.io/badge/Tool_Use_%2F_Function_Calling-4B5563?style=flat-square&logoColor=white)
 
+
+### Cloudflare Ecosystem
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Workers AI](https://img.shields.io/badge/Cloudflare_Workers_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Queues](https://img.shields.io/badge/Cloudflare_Queues-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Durable Objects](https://img.shields.io/badge/Durable_Objects-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+ 
+
+### Monorepo & Tooling
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+ 
+ 
 ## Currently Learning
 
 - Backend development with Node.js and Hono
