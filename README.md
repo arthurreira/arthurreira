@@ -234,10 +234,7 @@ Responsive personal portfolio that presents my projects, technical skills, and o
 ## GitHub Statistics
  
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=arthurreira&theme=dracula&hide_border=true&include_all_commits=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=arthurreira&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurreira&theme=dracula&hide_border=true&layout=compact&langs_count=10)
- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arthurreira&theme=iceberg&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 ## Collaboration and Open Source
