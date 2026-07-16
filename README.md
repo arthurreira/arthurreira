@@ -156,17 +156,66 @@ Foco em desenvolvimento backend e cloud — construindo produtos reais enquanto 
 
 <br/>
 
-**Frontend & UI** — Bootstrap · Zod · Better Auth · Atomic Design · View Transitions API · Custom React Hooks · Velite
+**Frontend & UI**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logoColor=white)
+![Atomic Design](https://img.shields.io/badge/Atomic_Design-FF6B6B?style=flat-square&logoColor=white)
+![View Transitions API](https://img.shields.io/badge/View_Transitions_API-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Custom React Hooks](https://img.shields.io/badge/Custom_React_Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Velite](https://img.shields.io/badge/Velite-000000?style=flat-square&logo=vite&logoColor=white)
 
-**Backend & Data** — MariaDB · SQLite · NeonDB · Pydantic · SQLAlchemy · Alembic · Row-Level Security · Stripe API · uv · Databricks
+**Backend & Data**
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=postgresql&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-D71F00?style=flat-square&logoColor=white)
+![Row-Level Security](https://img.shields.io/badge/Row--Level_Security-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe API](https://img.shields.io/badge/Stripe_API-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-**Cloud services** — Azure Portal · AWS Console · Cloudflare (Workers AI · Queues · Durable Objects · Wrangler)
+**Cloud services**
+![Azure Portal](https://img.shields.io/badge/Azure_Portal-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS Console](https://img.shields.io/badge/AWS_Console-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare Workers AI](https://img.shields.io/badge/Cloudflare_Workers_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Queues](https://img.shields.io/badge/Cloudflare_Queues-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Durable Objects](https://img.shields.io/badge/Durable_Objects-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-**AI / LLM** — MLflow · ML Evaluation Metrics · Data Engineering · Amazon Comprehend · Amazon Rekognition · Amazon Textract · Amazon Polly · Amazon Transcribe · Amazon Lex · Azure AI Vision · Azure AI Language · Azure AI Speech · Azure AI Document Intelligence · Azure AI Search
+**AI / LLM**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![ML Evaluation Metrics](https://img.shields.io/badge/ML_Evaluation_Metrics-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-0EA5E9?style=flat-square&logo=apacheairflow&logoColor=white)
+![Amazon Comprehend](https://img.shields.io/badge/Amazon_Comprehend-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Rekognition](https://img.shields.io/badge/Amazon_Rekognition-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Textract](https://img.shields.io/badge/Amazon_Textract-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Polly](https://img.shields.io/badge/Amazon_Polly-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Transcribe](https://img.shields.io/badge/Amazon_Transcribe-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Lex](https://img.shields.io/badge/Amazon_Lex-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure AI Vision](https://img.shields.io/badge/Azure_AI_Vision-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Language](https://img.shields.io/badge/Azure_AI_Language-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Speech](https://img.shields.io/badge/Azure_AI_Speech-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Document Intelligence](https://img.shields.io/badge/Azure_AI_Document_Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Languages & Embedded** — PHP · Arduino · Raspberry Pi · ESP32
+**Languages**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Tools & Design** — VS Code · Visual Studio · Figma · Adobe Photoshop · Unity · Blender
+**Embedded & Hardware**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+**Tools & Design**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 </details>
 
