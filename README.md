@@ -1,262 +1,165 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=009739&height=220&section=header&text=Hey%20there!%20I'm%20Arthur%20Ferreira&fontSize=40&fontColor=FEDD00&animation=fadeIn" alt="Header" />
+<!-- markdownlint-disable MD033 MD041 MD013 MD036 -->
 
-<!-- Typing Animation -->
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Junior+Software+Developer;Junior+Software+Engineer;Based+in+Finland;Building+AI-Powered+Analytics+Platforms;Claude+API+%7C+RAG+%7C+Agentic+Workflows" alt="Typing SVG" />
+<div align="center">
 
-<p >
-	<a href="https://www.linkedin.com/in/arthur-ferreira-66815524a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-	<a href="https://arthurreira.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-	<a href="mailto:arthur.ferreiramiran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=009739&height=200&section=header&text=Hey%20there!%20I'm%20Arthur%20Ferreira&fontSize=38&fontColor=FEDD00&animation=fadeIn" alt="Arthur Ferreira" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=F5A623&center=true&vCenter=true&width=620&lines=Software+Engineer;Building+RAG+%26+agentic+AI+workflows;LLM+APIs+%C2%B7+tool+use+%C2%B7+vector+search+%C2%B7+embeddings;Serverless+%26+event-driven;AWS+%26+Azure+cloud+certified" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/arthur-ferreira-66815524a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://arthurreira.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:arthur.ferreiramiran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p >
-	<img src="https://img.shields.io/badge/Open_to-Junior_Roles-1f883d?style=flat-square" alt="Open to junior roles" />
-	<img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Backend-0a66c2?style=flat-square" alt="Focus full stack and backend" />
-	<img src="https://img.shields.io/badge/Cloud-Azure_%26_AWS-6f42c1?style=flat-square" alt="Cloud Azure and AWS" />
+<p>
+  <img src="https://img.shields.io/badge/Software_Engineer-1f883d?style=flat-square" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Backend-0a66c2?style=flat-square" alt="Focus full stack and backend" />
+  <img src="https://img.shields.io/badge/Cloud-Azure_%26_AWS-6f42c1?style=flat-square" alt="Cloud Azure and AWS" />
 </p>
-<p >Simple guy, coding out of passion — development is my hobby!</p>
-<p >I just love well‑architected solutions!</p>
 
----
+<em>Software engineer based in Finland — I build across backend, cloud, and AI, out of genuine passion for clean, well-architected software.</em>
 
+<b>Languages:</b> English · <a href="#suomi">Suomi</a> · <a href="#portugues">Português</a>
 
-## Languages
-
-**English** | [Suomi](#about-me-fi) | [Português](#about-me-pt)
-
----
-
-
-Junior full stack developer with strong frontend delivery and growing backend/cloud depth. I build practical web applications, APIs, and Docker-based environments, and I am actively advancing in Azure and AWS certifications.
-
----
-
-- Full stack and backend focused developer with hands-on project delivery.
-- Experience with React, Next.js, Node.js, Express, ASP.NET Core, SQL, and Hono.
-- Active cloud and AI learning path across Microsoft and AWS.
-
----
-
-## Currently Building
-
-- Backend APIs with Node.js, Hono, and SQL integrations
-- Cloud fundamentals projects aligned with AZ-900 and AWS Cloud Practitioner paths
-- AI fundamentals learning path aligned with AI-900 and AWS AI tracks
+</div>
 
 ---
 
 ## About Me
 
-### English
+Hi, I'm Arthur — a software engineer based in Finland and originally from Brazil. I graduated from Savo Vocational College in Software Development.
 
-<img src="https://img.shields.io/badge/English-Profile-0a66c2?style=flat-square" alt="English profile" />
+I work mostly with **React, Next.js, TypeScript, Node.js, and ASP.NET Core**, and I build backend services with Hono and SQL. I have hands-on experience with Docker, deployments, and shipping real projects end to end, and I'm deepening my cloud and AI skills through the Microsoft and AWS certification paths.
 
-> Hi, I am Arthur Ferreira, a junior software developer based in Finland, originally from Brazil. I graduated from Savo Vocational College in Software Development.
->
-> I am focused on modern full stack web development and software engineering, with growing backend experience. I work with React, Next.js, TypeScript, Node.js, Express, ASP.NET Core, and SQL databases, and I am also building backend services with Hono.
->
-> I have hands-on experience with deployments, Docker-based environments, API development, and practical project delivery. I am currently learning cloud and AI fundamentals through Microsoft and AWS paths, and I am preparing for certifications.
->
-> I am looking for a junior-level role where I can contribute to real products and keep growing in software development and cloud engineering.
->
-> Languages: Portuguese (native), Finnish (fluent), English (fluent)
+I focus on backend and cloud engineering — building real products while continuously growing my depth across cloud and AI.
 
----
+<sub>Portuguese (native) · Finnish (fluent) · English (fluent)</sub>
 
-### <a name="about-me-fi"></a>Suomi
+<a id="suomi"></a>
 
-<img src="https://img.shields.io/badge/Suomi-Profiili-1f883d?style=flat-square" alt="Suomi profiili" />
+<details>
+<summary><b>Suomi</b></summary>
 
-> Hei, olen Arthur Ferreira, junior-ohjelmistokehittäjä. Asun Suomessa ja olen alun perin Brasiliasta. Valmistuin Savon Ammattiopistosta ohjelmistokehityksen linjalta.
->
-> Keskityn moderniin full stack -kehitykseen ja ohjelmistotekniikkaan, ja backend-osaamiseni kasvaa jatkuvasti. Työskentelen teknologioilla kuten React, Next.js, TypeScript, Node.js, Express, ASP.NET Core ja SQL-tietokannat, sekä rakennan backend-palveluita myös Hono-kehyksellä.
->
-> Minulla on käytännön kokemusta deploy-prosesseista, Docker-ympäristöistä, API-kehityksestä ja projektien toteutuksesta. Opiskelen tällä hetkellä pilvi- ja AI-perusteita Microsoftin ja AWS:n oppimispoluilla sekä valmistaudun sertifikaatteihin.
->
-> Etsin junioritason tehtävää, jossa voin osallistua oikeisiin tuotteisiin ja kehittyä backend- ja pilvikehityksessä.
->
-> Kielet: Portugali (äidinkieli), suomi (sujuva), englanti (sujuva)
+Hei, olen Arthur — ohjelmistoinsinööri. Asun Suomessa ja olen alun perin Brasiliasta. Valmistuin Savon ammattiopistosta ohjelmistokehityksen linjalta.
 
----
+Työskentelen pääasiassa Reactilla, Next.js:llä, TypeScriptillä, Node.js:llä ja ASP.NET Corella, ja rakennan backend-palveluita Hono- ja SQL-teknologioilla. Minulla on käytännön kokemusta Dockerista, deploy-prosesseista ja oikeiden projektien toteutuksesta, ja syvennän jatkuvasti pilvi- ja AI-osaamistani Microsoftin ja AWS:n sertifikaattipoluilla.
 
-### <a name="about-me-pt"></a>Português
+Keskityn backend- ja pilvikehitykseen sekä rakennan oikeita tuotteita ja kasvatan jatkuvasti osaamistani pilvi- ja AI-teknologioissa.
 
-<img src="https://img.shields.io/badge/Portugu%C3%AAs-Perfil-ef6c00?style=flat-square" alt="Português perfil" />
+</details>
 
-> Olá, eu sou Arthur Ferreira, desenvolvedor de software júnior, morando na Finlândia e originalmente do Brasil. Sou formado pelo Savo Vocational College em Desenvolvimento de Software.
->
-> Estou focado em desenvolvimento full stack moderno e engenharia de software, com evolução constante em backend. Trabalho com React, Next.js, TypeScript, Node.js, Express, ASP.NET Core e bancos SQL, além de desenvolver serviços backend com Hono.
->
-> Tenho experiência prática com deploy, ambientes com Docker, desenvolvimento de APIs e entrega de projetos reais. Atualmente estou estudando fundamentos de cloud e IA pelos caminhos da Microsoft e da AWS, e me preparando para certificações.
->
-> Busco uma oportunidade de nível júnior para contribuir em produtos reais e continuar evoluindo em backend e cloud engineering.
->
-> Idiomas: Português (nativo), Finlandês (fluente), Inglês (fluente)
+<a id="portugues"></a>
+
+<details>
+<summary><b>Português</b></summary>
+
+Olá, eu sou o Arthur — engenheiro de software, morando na Finlândia e originalmente do Brasil. Sou formado pelo Savo Vocational College em Desenvolvimento de Software.
+
+Trabalho principalmente com React, Next.js, TypeScript, Node.js e ASP.NET Core, e desenvolvo serviços backend com Hono e SQL. Tenho experiência prática com Docker, deploy e entrega de projetos reais de ponta a ponta, e estou aprofundando meus conhecimentos de cloud e IA pelos caminhos de certificação da Microsoft e da AWS.
+
+Foco em desenvolvimento backend e cloud — construindo produtos reais enquanto evoluo constantemente em cloud e IA.
+
+</details>
 
 ---
 
-## Certifications and Learning Roadmap
+## Tech I Work With
 
-- Microsoft Azure Fundamentals (AZ-900): Done!
-- Microsoft Azure AI Fundamentals (AI-900): in progress 
-- AWS Certified Cloud Practitioner: Done!
-- AWS AI Practitioner: in progress
-- Continuous focus: backend architecture, cloud services, and applied AI in software products
-
----
-
-## Technical Skills
-
-### Core Stack
+**Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Data**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![ASP.NET_Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Backend, API, and Data
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square)
-![Entity_Framework_Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF_Core_Scaffolding](https://img.shields.io/badge/EF_Core_Scaffolding-7A3E9D?style=flat-square&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=postgresql&logoColor=white)
-![Cloudflare Workers AI](https://img.shields.io/badge/Cloudflare%20Workers%20AI-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-D71F00?style=flat-square&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Row-Level Security](https://img.shields.io/badge/Row--Level_Security-316192?style=flat-square&logo=postgresql&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logoColor=white)
-![Stripe API](https://img.shields.io/badge/Stripe_API-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Cloud, DevOps, and Deployment
+**Cloud & Tooling**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logoColor=white)
-![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### Frontend and UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Velite](https://img.shields.io/badge/Velite-000000?style=flat-square&logo=vite&logoColor=white)
-![View Transitions API](https://img.shields.io/badge/View%20Transitions%20API-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![Custom React Hooks](https://img.shields.io/badge/Custom%20React%20Hooks-61DAFB?style=flat-square&logo=react&logoColor=black)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logoColor=white)
-![Atomic Design](https://img.shields.io/badge/Atomic_Design-FF6B6B?style=flat-square&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logoColor=white)
-
-### Additional Technologies
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Azure_Portal](https://img.shields.io/badge/Azure_Portal-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS_Console](https://img.shields.io/badge/AWS_Console-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![ML Evaluation Metrics](https://img.shields.io/badge/ML%20Evaluation%20Metrics-8B5CF6?style=flat-square&logo=python&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0EA5E9?style=flat-square&logo=apacheairflow&logoColor=white)
-
-### AI / LLM Engineering
+**Exploring in AI**
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white)
-![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-FF6F61?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square&logoColor=white)
-![Tool Use / Function Calling](https://img.shields.io/badge/Tool_Use_%2F_Function_Calling-4B5563?style=flat-square&logoColor=white)
 
+<details>
+<summary><b>Also work with</b> — tools I reach for as needed</summary>
 
-### Cloudflare Ecosystem
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Cloudflare Workers AI](https://img.shields.io/badge/Cloudflare_Workers_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Cloudflare Queues](https://img.shields.io/badge/Cloudflare_Queues-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Durable Objects](https://img.shields.io/badge/Durable_Objects-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white)
- 
+<br/>
 
-### Monorepo & Tooling
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
- 
- 
-## Currently Learning
+**Frontend & UI** — HTML5 · CSS3 · Bootstrap · Framer Motion · shadcn/ui · TanStack Query · Zod · Better Auth · Atomic Design · View Transitions API · Custom React Hooks · Velite
 
-- Backend development with Node.js and Hono
-- Azure fundamentals and Microsoft cloud services (AZ-900 path)
-- AWS cloud fundamentals (Cloud Practitioner path)
-- AI fundamentals on cloud platforms (AI-900 and AWS AI track)
-- Cloud architecture patterns and system design principles
+**Backend & Data** — REST APIs · Entity Framework Core (+ Scaffolding) · MySQL · MariaDB · SQLite · Redis · Supabase · NeonDB · FastAPI · Pydantic · SQLAlchemy · Alembic · Row-Level Security · Stripe API · uv · Databricks
+
+**Cloud & DevOps** — Kubernetes · Terraform · Bicep · Azure DevOps · Azure Portal · AWS Console · Cloudflare (Workers · Workers AI · Queues · Durable Objects · Wrangler) · Turborepo · pnpm · ESLint
+
+**AI / LLM** — AWS Bedrock · Vector Embeddings · Prompt Engineering · Tool Use / Function Calling · MLflow · ML Evaluation Metrics · Data Engineering
+
+**Languages & Embedded** — C++ · PHP · Arduino · Raspberry Pi · ESP32
+
+**Tools & Design** — VS Code · Visual Studio · Figma · Adobe Photoshop · Unity · Blender
+
+</details>
 
 ---
 
-## Featured Projects
+## Currently Building & Learning
 
-### Portfolio Website
-Responsive personal portfolio that presents my projects, technical skills, and ongoing learning journey.
+- Backend APIs with Node.js, Hono, and SQL
+- Cloud & AI fundamentals on the Microsoft and AWS paths
+- Cloud architecture patterns and system design
 
-[Live Demo](https://arthurreira.dev)
+**Certifications**
 
-**Technologies:** Next.js, React, Tailwind CSS v4, Framer Motion, Contentlayer, AWS (Amazon Bedrock for AI features), serverless functions on Vercel
+- Microsoft Azure Fundamentals (AZ-900) — **Certified**
+- AWS Certified Cloud Practitioner — **Certified**
+- Microsoft Azure AI Fundamentals (AI-900) — *In progress*
+- AWS AI Practitioner — *In progress*
 
 ---
-## GitHub Statistics
- 
+
+## Featured Project
+
+### Portfolio Website — [arthurreira.dev](https://arthurreira.dev)
+
+Responsive personal portfolio showcasing my projects, skills, and learning journey.
+Built with **Next.js, React, Tailwind CSS v4, Framer Motion**, plus AI features via **Amazon Bedrock**, deployed serverless on Vercel.
+
+---
+
+## My Activity
+
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arthurreira&theme=iceberg&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+<!-- Commit history as a line graph — hosted image, updates automatically, no Actions needed -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurreira&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="95%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=arthurreira&theme=dracula&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub stats" height="165" />
+
 </div>
 
-## Collaboration and Open Source
-
-- Open to collaboration on full stack, backend API, and cloud learning projects
-- Interested in contributing to practical open-source projects and developer tooling
-
----
-
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/arthur-ferreira-66815524a)
-- [Portfolio](https://arthurreira.dev)
-- [Email](mailto:arthur.ferreiramiran@gmail.com)
-
 ---
 
 <div align="center">
 
-**Thanks for visiting!**
+Open to collaboration on full stack, backend, and cloud projects.
 
-Star my repositories if you find them interesting!
+**Thanks for visiting!** Feel free to star anything you find useful.
 
 </div>
