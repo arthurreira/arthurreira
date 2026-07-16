@@ -73,6 +73,7 @@ Foco em desenvolvimento backend e cloud — construindo produtos reais enquanto 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -201,8 +202,6 @@ Foco em desenvolvimento backend e cloud — construindo produtos reais enquanto 
 ![Azure AI Document Intelligence](https://img.shields.io/badge/Azure_AI_Document_Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Languages**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Embedded & Hardware**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
