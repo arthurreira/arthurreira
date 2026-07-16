@@ -145,12 +145,12 @@ Built with **Next.js, React, Tailwind CSS v4, Framer Motion**, plus AI features 
 
 <div align="center">
 
-<!-- Commit history as a line graph — hosted image, updates automatically, no Actions needed -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurreira&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="95%" />
+<!-- Streak + contribution graph — hosted images, no Actions needed, colored to match header -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurreira&hide_border=true&background=009739&ring=FFDD03&fire=FFDD03&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFDD03&sideLabels=ffffff&dates=ffffff&stroke=FFDD03" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arthurreira&theme=dracula&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurreira&hide_border=true&bg_color=009739&color=ffffff&line=FFDD03&point=ffffff&area=true&area_color=FFDD03&title_color=FFDD03" alt="Contribution activity graph" width="95%" />
 
 </div>
 
