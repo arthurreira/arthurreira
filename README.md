@@ -98,17 +98,26 @@ Foco em desenvolvimento backend e cloud — construindo produtos reais enquanto 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Cloud & Tooling**
+**Cloud**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1f883d?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Monorepo & Tooling**
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 
 **Exploring in AI**
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -134,7 +143,7 @@ Foco em desenvolvimento backend e cloud — construindo produtos reais enquanto 
 
 **Backend & Data** — MariaDB · SQLite · NeonDB · Pydantic · SQLAlchemy · Alembic · Row-Level Security · Stripe API · uv · Databricks
 
-**Cloud & DevOps** — Azure Portal · AWS Console · Cloudflare (Workers AI · Queues · Durable Objects · Wrangler) · Turborepo · pnpm · ESLint
+**Cloud services** — Azure Portal · AWS Console · Cloudflare (Workers AI · Queues · Durable Objects · Wrangler)
 
 **AI / LLM** — MLflow · ML Evaluation Metrics · Data Engineering · Amazon Comprehend · Amazon Rekognition · Amazon Textract · Amazon Polly · Amazon Transcribe · Amazon Lex · Azure AI Vision · Azure AI Language · Azure AI Speech · Azure AI Document Intelligence · Azure AI Search
 
